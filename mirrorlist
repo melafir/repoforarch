@@ -1,0 +1,54 @@
+##
+## Arch Linux repository mirrorlist
+## Filtered by mirror score from mirror status page
+## Generated on 2022-04-16
+##
+
+## Netherlands
+#Server = http://mirror.lyrahosting.com/archlinux/$repo/os/$arch
+## Netherlands
+#Server = http://mirror.tarellia.net/distr/archlinux/$repo/os/$arch
+## Netherlands
+#Server = https://arch.mirrors.lavatech.top/$repo/os/$arch
+## Netherlands
+#Server = https://mirror.lyrahosting.com/archlinux/$repo/os/$arch
+## Netherlands
+#Server = http://archlinux.mirror.pcextreme.nl/$repo/os/$arch
+## Netherlands
+#Server = https://mirror.cj2.nl/archlinux/$repo/os/$arch
+## Netherlands
+#Server = https://mirror.koddos.net/archlinux/$repo/os/$arch
+## Netherlands
+#Server = https://archlinux.mirror.wearetriple.com/$repo/os/$arch
+## Netherlands
+#Server = http://mirrors.xtom.nl/archlinux/$repo/os/$arch
+## Netherlands
+#Server = https://mirror.mijn.host/archlinux/$repo/os/$arch
+## Netherlands
+#Server = http://arch.mirrors.lavatech.top/$repo/os/$arch
+## Netherlands
+#Server = https://archlinux.mirror.liteserver.nl/$repo/os/$arch
+## Netherlands
+#Server = https://archlinux.mirror.pcextreme.nl/$repo/os/$arch
+## Netherlands
+#Server = http://mirror.mijn.host/archlinux/$repo/os/$arch
+## Netherlands
+#Server = http://ftp.nluug.nl/os/Linux/distr/archlinux/$repo/os/$arch
+## Netherlands
+#Server = http://archlinux.mirror.wearetriple.com/$repo/os/$arch
+## Netherlands
+#Server = http://mirror.koddos.net/archlinux/$repo/os/$arch
+## Netherlands
+#Server = https://mirror.ams1.nl.leaseweb.net/archlinux/$repo/os/$arch
+## Netherlands
+#Server = http://mirror.cj2.nl/archlinux/$repo/os/$arch
+## Netherlands
+#Server = https://mirror.tarellia.net/distr/archlinux/$repo/os/$arch
+## Netherlands
+#Server = https://mirrors.xtom.nl/archlinux/$repo/os/$arch
+## Netherlands
+#Server = http://mirror.ams1.nl.leaseweb.net/archlinux/$repo/os/$arch
+## Netherlands
+#Server = http://ftp.snt.utwente.nl/pub/os/linux/archlinux/$repo/os/$arch
+## Netherlands
+#Server = http://archlinux.mirror.liteserver.nl/$repo/os/$arch
